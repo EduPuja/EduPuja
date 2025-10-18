@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EduPuja
+#👋 Hi, I’m @EduPuja
 - 👀 I’m interested in Java / Android APPSS
 - 🌱 I’m currently learning Python and trying to learn JavaScript
 - 💞️ I’m looking to collaborate on a web project
